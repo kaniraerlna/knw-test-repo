@@ -1,5 +1,9 @@
 To Do List UAS
 - Project PWL
+  UI/UX
+  ^ Registrasi
+  ^ Login
 - Project CICIT
 - Belajar Metnum
 - Latihan Grafika Komputer
+  ^ ngoding dikertasT-T
