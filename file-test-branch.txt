@@ -1,5 +1,8 @@
 To Do List UAS
 - Project PWL
+  UI/UX
+  ^ Dashboard Server
+  ^ Dashboard Client
 - Project CICIT
 - Belajar Metnum
 - Latihan Grafika Komputer
